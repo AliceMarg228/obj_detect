@@ -1,0 +1,3 @@
+test_loss: 0.9
+
+Trained to detect white squares on a black background
