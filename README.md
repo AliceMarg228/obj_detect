@@ -12,4 +12,7 @@ and will output:
 In that exact order
 
 Current best model:
-model_0 with test_loss = 0.9
+model_1 with test loss = 0.07 and test accuracy = 96%
+
+model_1 only detects white squares on a black background,
+but i am now working on a model that will work with coloured images
